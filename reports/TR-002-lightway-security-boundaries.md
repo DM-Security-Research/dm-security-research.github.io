@@ -3,7 +3,6 @@
 ### A scoped research summary of ExpressVPN Lightway and wolfssl-rs
 
 **Author:** David Menendez — DM Security Research  
-**Publication date:** 2026-11-15  
 **Study:** Independent authorized source-code review  
 **Source references studied:** Lightway `6f037963fb3b52fd678ba4338e5e5a1dca64a08e`; wolfssl-rs `f020d776bd4c948766c390b6bfd29e11f4eb824c`  
 **Public conclusion:** No remotely exploitable vulnerability in Lightway was demonstrated by the documented scoped review.
