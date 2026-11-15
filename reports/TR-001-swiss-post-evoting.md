@@ -3,7 +3,6 @@
 ### A scoped source-code security review of Swiss Post E-Voting
 
 **Author:** David Menendez — DM Security Research  
-**Publication date:** 2026-11-15  
 **Research reference:** SWISS-001  
 **Study type:** Defensive source-code review and threat-model analysis  
 **Repository revision reviewed:** `095a02f870b787d8b034c9fa3819f7b329354f68`  
