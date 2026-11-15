@@ -11,6 +11,7 @@ DM Security Research is an independent cybersecurity research initiative led by 
 - Reverse engineering and controlled local laboratories
 
 ## Public documents
+- [Technical Report 001 — E-voting cryptographic context validation](./reports/TR-001-swiss-post-evoting.md)
 - [Selected technical research portfolio](./PORTFOLIO.md)
 - [Research methodology](./RESEARCH.md)
 - [Responsible disclosure and research ethics](./DISCLOSURE.md)
